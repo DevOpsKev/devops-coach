@@ -27,9 +27,9 @@ Before project setup you will need to have Git installed on your machine. If you
 #### Step #1 : Get a local copy of the project
 From the terminal navigate to a local directory where you want to work on this book and clone this repository using the following command. 
 
-`git clone https://github.com/TideKev/agile-coach.git`
+`git clone https://github.com/DevOpsKev/devops-coach.git`
 
-Your working directory should now contain a sub directory named 'agile-coach'. Congratulations, you can now contribute to this book and become both an outstanding Tide Digital coworker and famous published author.
+Your working directory should now contain a sub directory named 'devops-coach'. Congratulations, you can now contribute to this book and become both an outstanding Tide Digital coworker and famous published author.
 
 #### Step #2 : Copy binaries to compile ebooks locally.
 
