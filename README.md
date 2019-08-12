@@ -70,39 +70,7 @@ and
 
 Right click 'DevOps Coach.epub' and select open with (Books). You should now be able to read the ebook!
 
-Close the book view in (Books) and delete the book from your collection. This is recommended to avoid confusion relating to which version of the book you are reading as you begin to author content and review your changes before committing to the GitHub repository.
-
-Next. Using the plain text editor of your choice, from the project root directory open the file:
-
-`./Author/Chapters/000.md`
-
-You should see this at the top of the file:
-
->`# Example Chapter.`
->
-> `Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.`
-
-Just below where the file reads `# Getting Started` type your name or a unique message. Like so:
-
->`# Getting Started.`
->
->`Hello Publishing World!`
->
-> `Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.`
-
-Save and close the file `./Author/Chapters/000.md`.
-
-Starting again from the project root directory, using the terminal run the following command. Including the `-t` test option will include the '000.md' example chapter when compiling the ebook.
-
-`sh ./build-local.sh -t`
-
-Using Finder again navigate to /Build/Out/ from within the project root directory. Right click 'DevOps Coach.epub' and select open with (Books).
-
 *Congratulations!*
-
-You should now see your unique message at the start of the first chapter of the book.
-
-Now delete those changes and put things back the way they were.
 
 You are all set up to begin writing. Create your own branch on Github and work as you would normally. Submit any changes to your own branch and request those be merged to master as a pull request. It's that easy.
 
