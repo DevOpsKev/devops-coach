@@ -24,7 +24,7 @@
 
 #### [Chapter 1. It Was the Best of Times](#chapter-1)
 
-#### [Chapter 2. The Beautiful Game](#chapter-2)
+#### [Chapter 2. The Geeks Shall Inherit The Earth](#chapter-2)
 
 
 
@@ -64,7 +64,7 @@ My long answer to that same question is this book. To answer that question in fu
 
 # 1. It Was the Best of Times. {#chapter-1}
 
-To understand the role of the Agile Coach it is necessary to know where the idea of both Agile and the Agile Coach originated. The '90s. 
+To understand the role of the DevOps Coach it is first necessary to where where the idea of both DevOps and Agile originated. We will begin with Agile, the '90s. 
 
 Between March 1991 and March 2001, the U.S. economy experienced the longest recorded expansion of its history. Times were good, in fact, for anyone working in technology the '90s felt like a genuine gold rush. 1994 until 2001 was the era of the dot-com bubble; the bubble didn't burst for everyone. Some of those that survived the 'pop' went on to build global digital empires.
 
@@ -193,19 +193,19 @@ The Dot-Com bubble burst that year; the Dot-Com expansion began.
 
 
 
-# 2. The Beautiful Game {#chapter-2}
+# 2. The Geeks Shall Inherit The Earth {#chapter-2}
 
 Coaching is a strange profession. The role of the coach is commonly misunderstood, not least, by those who hire a coach. The raw material of the coaching profession is people. A coach guides others to achieve the most of themselves, to break their internal boundaries and overcome self-imposed limitations.
 
-To clarify the relationship between myself and the people I coach, I describe them as 'players.' They are not my students or pupils. They are not my protégés and certainly not my disciples. They are the players of the game. It is not the Agile game; it is the product development game. It is a field game, the field of evolving technology.
+To clarify the relationship between myself and the people I coach, I describe them as 'players.' They are not my students or pupils. They are not my protégés and certainly not my disciples. They are the players of the game. It is not the DevOps or Agile game; it is the product development game. It is a field game, the field of evolving technology.
 
 Within the game, fast beats slow. Technical excellence is essential. The game rewards agility and punishes sloth. Knowledge beats ignorance. The game is unforgiving and fiercely competitive. The rules of the game change with ever-increasing frequency. This game has no place for amateurs. It is without question a team game.
 
-A true Agile Coach understands the fundamental qualities of the game. Those are product, technology, and finance. Notice, I did not say people, process and tools. What I am describing is the game itself, not how we play the game. It is the New New Product Development Game.
+A true DevOps Coach understands the fundamental qualities of the game. Those are product, technology, and finance. Notice, I did not say people, process and tools. What I am describing is the game itself, not how we play the game. It is the New New Product Development Game.
 
 In 2001 this game definitively turned pro sport. This is a high stakes game. 
 
-The primary focus of this book will be coaching agile teams in the disciplines of product discovery and technical delivery. Before continuing, I want to share insight into some of the underlying financial forces that drive this industry. It is impossible to ignore the economic context agile teams operate within; it influences everything they do. It is this economic context that dictates the very need for agility.
+The primary focus of this book will be coaching teams in the disciplines of product discovery and technical delivery. Before continuing, I want to share insight into some of the underlying financial forces that drive this industry. It is impossible to ignore the economic context agile teams operate within; it influences everything they do. It is this economic context that dictates the very need for agility.
 
 I will give the companies I describe in this chapter their appropriate name, 'Information Age Companies.' These companies are often referred to as 'Technology Companies,' but that is a misnomer. Paper is a technology discovered around 100BC that has stood the test of time through many ages. Without a doubt, all information age companies still find a useful application for paper technology. 
 
