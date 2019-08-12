@@ -61,8 +61,7 @@ Please leave this file as it is. This file is included as part of the 'Hello Pub
 Links to footnotes should be included with the following markdown syntax:
 
 #### *[^#]  - where # is the unique number of the footnote.*
-
-An example can be seen in the `./author/body/000.md` chapter file.
+Example below:
 
 >'Lorem ipsum dolor sit amet, consectetur adipiscing elit [^0], sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.'
 
@@ -70,7 +69,7 @@ Append your footnote reference to the footnotes.md file in the following locatio
 
 `./author/footnotes/footnotes.md`
 
-An example is included referencing the `./author/body/000.md` chapter file:
+Example below:
 
 >`[^0]: Example footnote`
 
