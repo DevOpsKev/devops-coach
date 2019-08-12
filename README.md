@@ -5,7 +5,7 @@
 
 ## *"Your mission, should you choose to accept it, is to be a contributing author to the world's first book dedicated to the DevOps Coach."*
 
-#### *Download the latest release of the book here >>> <a href="xxx">Epub Format</a> - <a href="xxx">Mobi Format</a>*
+#### *Download the latest release of the book here >>> <a href="https://github.com/DevOpsKev/devops-coach/blob/master/build/out/DevOps%20Coach.epub?raw=true">Epub Format</a> - <a href="xxx">Mobi Format</a>*
 
 
 
