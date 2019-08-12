@@ -1,0 +1,16 @@
+---
+title:
+- type: main
+  text: DevOps Coach
+- type: subtitle
+  text: "How to inspire great teams to win with DevOps."
+creator:
+- role: author
+  text: Kevin Ryan
+- role: editor
+  text: Tide Digital APS Denmark
+identifier:
+- scheme: ISBN-10
+  text: 978-0-00-000000-0
+publisher:  Tide Digital APS Denmark
+rights: © 2019 Tide Digital APS Denmark , CC BY-NC
