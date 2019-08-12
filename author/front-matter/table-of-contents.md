@@ -9,4 +9,4 @@
 
 #### [Chapter 1. It Was the Best of Times](#chapter-1)
 
-#### [Chapter 2. The Beautiful Game](#chapter-2)
+#### [Chapter 2. The Geeks Shall Inherit The Eart](#chapter-2)
