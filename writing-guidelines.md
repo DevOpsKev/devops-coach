@@ -69,7 +69,7 @@ Many authors â€œknow what they want to write, but instead of writing they say â€
 
 ## Kevin Ryan
 
->### *"To become an author is the epitome of programming, to create software for the mind."*
+>### *"Writing is programming, creating software for people's minds."*
 
 
 ### Six Lessons Learned From Collaborative Writing
