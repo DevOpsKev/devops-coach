@@ -1,4 +1,4 @@
-<img height="500px" src="../../blob/master/Design/devops-coach-mockup.png" />
+<img height="500px" src="https://github.com/DevOpsKev/devops-coach/blob/master/design/devops-coach-mockup.png" />
 
 
 # DevOps Coach
