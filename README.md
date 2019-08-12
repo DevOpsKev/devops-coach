@@ -127,21 +127,6 @@ https://stackedit.io/app
 StackEdit’s Markdown syntax highlighting is unique. The refined text formatting of the editor helps you visualize the final rendering of your files. You can write directly into a web browser and see in real time how final formatting will render.
 
 
-### Book Cover Production
-
-#### Canva
-Canva is a graphic-design tool website. It uses a drag-and-drop format and provides access to over a million photographs, graphics, and fonts. The tools can be used for both web and print media design and graphics.
-
-https://www.canva.com
-
-#### DIY Book Covers
-
-Specifically intended to design book covers and this website also includes a free 3D book mockup generator.
-
-https://diybookcovers.com/
-
-https://diybookcovers.com/3Dmockups/
-
 ## *"And remember, when you write code you program computers, when you write books you blow minds!"*
 
 
