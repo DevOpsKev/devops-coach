@@ -9,7 +9,7 @@
 
 
 
-This book was written by a team of talented agile practitioners and is the result of an <a href="https://en.wikipedia.org/wiki/Inner_source" target="_blank">innersource</a> publishing initiative from Tide Digital. This book and its contents are released under the <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a> creative commons attribution license by Tide Digital APS Denmark who own the copyright thereof.
+This book was written by a team of talented agile practitioners and is the result of an <a href="https://en.wikipedia.org/wiki/Open_source" target="_blank">open source</a> publishing initiative from Tide Digital. This book and its contents are released under the <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a> creative commons attribution license by Tide Digital APS Denmark who own the copyright thereof.
 
 ## Introduction
 
