@@ -1,7 +1,7 @@
 <img height="500px" src="../../blob/master/Design/agile-coach.png" />
 
 
-# Agile Coach
+# DevOps Coach
 
 ## *"Your mission, should you choose to accept it, is to be a contributing author to the world's first book dedicated to the DevOps Coach."*
 
