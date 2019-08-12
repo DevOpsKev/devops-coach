@@ -13,7 +13,7 @@ This book was written by a team of talented agile practitioners and is the resul
 
 ## Introduction
 
-If you're interested in becoming a contributing author to this book please read our <a href="../../blob/master/writing-guidelines.md">writing guidelines</a> and <a href="../../blob/master/adding-content-instructions.md">instructions for adding content</a> to help you get started.
+If you're interested in becoming a contributor or contributing author to this book please read our <a href="../../blob/master/writing-guidelines.md">writing guidelines</a> and <a href="../../blob/master/adding-content-instructions.md">instructions for adding content</a> to help you get started.
 
 If you can't wait to be involved in this project and earn recognition as an outstanding Tide Digital coworker, read below.
 
