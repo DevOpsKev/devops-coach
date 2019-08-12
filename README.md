@@ -62,11 +62,11 @@ Ensure you are within the project root directory and execute the following comma
 
 Using Finder navigate to /Build/Out/ from within the project root directory. Within the out directory you should find two files.
 
-*'DevOps Coach.epub'*
+**'DevOps Coach.epub'**
 
 and
 
-*'DevOps Coach.mobi'*
+**'DevOps Coach.mobi'**
 
 Right click 'DevOps Coach.epub' and select open with (Books). You should now be able to read the ebook!
 
