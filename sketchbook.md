@@ -1,0 +1,29 @@
+Agile has shed another skin.
+
+Not an exact history, just how I remember it.
+
+When I began my career as an engineer Agile was a counter culture. It felt exciting to be a part of something that was sticking it to the ‘Man’ and the Project Management Office. We were getting things done through sheer pragmatism. It was a counter corporate culture. It was probably the most equable and domesticated counter culture in history. The casual observer might visualise Che Guevara; hosting a teddy bears picnic.
+
+Don’t let this cowed persona lead you to underestimate the impact of our revolution. We simply left the global infrastructure of our chosen conquest intact. This was a beautifully executed hack.
+
+After all, we were a bunch of geeks. We were hardly going to actually drop out when the money was so good and we were being paid to do exactly what we wanted to spend our time doing. This was primarily cut code and listen to music on big loud headphones. Right of passage upon joining the office was to build your own PC, much to our mind as a true Jedi would build his own lightsaber.
+
+Graphics cards were paramount as after hours we would usurp the office ethernet for LAN Quake parties, working late at the office. I know of one individual who later convinced his boss to expense 30 Sony Play Station 2s as the graphics cards were ideal for networked mathematics when running yellow dog linux as an operating system, a potential supercomputer. Best LAN party in town.
+
+For the more seasoned of us hacking code had been our hobby since the days of the Apple 1 (1976), newcomers had joined around the time of the Commodore 64 and Amiga (1982-1985). We had spare cash to buy a mini fridge to slip under the desk and cool our Friday afternoon beers. We had pocket money to splash out on the new novelty of going online to order trinkets of geek toy merchandise that would decorate our CRT monitors. Just as the AK47 is synonymous around the world as a symbol of coup and revolution our weapon of choice was the Nurf Gun, age rating 3+. Office based Nurf wars were common getting shot in the eye by a foam projectile when you're tring to address a particularly complicated coding challenge is not an exactly an aid to concentration.
+
+On February 11-13, 2001, at The Lodge at Snowbird ski resort in the Wasatch mountains of Utah seventeen of the leading anarchist minds of this counter corporate culture rallied together in abject comfort to pen the agile manifesto*. Global society had recently and by a whisker avoided a reset to the Stone Age courtesy of the Y2K bug. This narrow escape was fresh in memory. A life which still included basic essential amenities such as global banking and jumbo jets felt like a new beginning. The manifesto was a rallying cry:
+
+Manifesto for Agile Software Development
+
+We are uncovering better ways of developing software by doing it and helping others do it. Through this work we have come to value: Individuals and interactions over processes and tools Working software over comprehensive documentation Customer collaboration over contract negotiation That is, while there is value in the items on the right, we value the items on the left more.
+
+We had become a tribe, we had obtained an identity. We grew our hair and, if you were a Unix guy, a beard too. We wore geek slogan t-shirts that only other geeks could understand and only other geeks could ever find even remotely amusing. Some of us smoked pot at lunch time. Others followed the emerging trend to drink overly caffeinated beverages. Some of us did both. Which, by 5pm, in a work environment that generally selects for individuals that are somewhere along the autistic spectrum made us particularly difficult to be around in the office. We got away with it all. Because we were in demand, we made things work, context is king. The geek shall inherit the earth.
+
+We deliberately regressed with the enthusiasm of a Uni bomber manufacturing hand made screws from polished brass. We went from Sony mini disk to vinyl. We went from bloated corporate requirement management systems to post it notes and sharpies. Moleskin notebooks were back in vogue. We produced digital but we went analogue.
+
+Eventually unix beard chic would become mainstream, overly caffeinated drinks would become gourmet cold drip coffee. Agile wireframes would become user experience designs. And, actively engaging with people in mutualy respectful face to face conversation would evolve into the commonly accepted behaviour of not being a complete duche at work. We were hipster before it was hipster. The main difference between our generation and the upcoming millennial generation was that we still held onto the opportunity of one day being able to afford to buy our own home.
+
+I believe there was a singular reason our beatnik attitude towards office etiquette was tolerated and the potential impact of our anarchistic tendancies overlooked. That was the unpredictable level of adoption at global scale of the internet. No-one really could have foreseen just how pervasive this new distributed information medium would prove to be. The internet was ‘I.T.’ with a 10 mile high capital ‘I’. People just couldn’t get enough of it. By pure accident of birth, arriving at exactly the right time with a particularly biased neurology we found ourselves in the middle of a gold rush. A gold rush where we were the guys selling the pans and shovels, or in our case the ones and zeros. Good times.
+
+I hold all of these guys in highest regard and have respect their intelligence and competence, please don’t confuse writing style with lack of respect . Kent Beck, Mike Beedle, Arie van Bennekum, Alistair Cockburn, Ward Cunningham, Martin Fowler (+1 a boy from the Black Country), James Grenning, Jim Highsmith, Andrew Hunt, Ron Jeffries, Jon Kern, Brian Marick, Robert C. Martin, Steve Mellor, Ken Schwaber, Jeff Sutherland, Dave Thomas
