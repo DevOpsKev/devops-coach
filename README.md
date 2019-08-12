@@ -56,9 +56,9 @@ You are now in the project root directory. Now type the following commands to co
 
 If all has gone well so far you are now set up to locally publish your first ebook. One small step towards acclaim, fame and fortune beyond your wildest dreams.
 
-Ensure you are within the project root directory and execute the following command from the terminal. Including the `--test` option will include the '000.md' test chapter.
+Ensure you are within the project root directory and execute the following command from the terminal.
 
-`sh ./build-local.sh --test`
+`sh ./build-local.sh`
 
 Using Finder navigate to /Build/Out/ from within the project root directory. Within the out directory you should find two files.
 
@@ -92,9 +92,9 @@ Just below where the file reads `# Getting Started` type your name or a unique m
 
 Save and close the file `./Author/Chapters/000.md`.
 
-Starting again from the project root directory, using the terminal run the following command.
+Starting again from the project root directory, using the terminal run the following command. Including the `-t` test option will include the '000.md' example chapter when compiling the ebook.
 
-`sh ./build-local.sh --test`
+`sh ./build-local.sh -t`
 
 Using Finder again navigate to /Build/Out/ from within the project root directory. Right click 'DevOps Coach.epub' and select open with (Books).
 
