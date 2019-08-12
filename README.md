@@ -42,7 +42,7 @@ If you want to use the executables included within this project you can use the 
 
 From your working directory type the following command
 
-`cd ./agile-coach/`
+`cd ./devops-coach/`
 
 You are now in the project root directory. Now type the following commands to copy the required executables to your `/usr/local/bin` directory. You will need administrator privileges on your machine to do so. You will also be prompted to enter the Administrator password.
 
@@ -56,19 +56,19 @@ You are now in the project root directory. Now type the following commands to co
 
 If all has gone well so far you are now set up to locally publish your first ebook. One small step towards acclaim, fame and fortune beyond your wildest dreams.
 
-Ensure you are within the project root directory and execute the following command from the terminal.
+Ensure you are within the project root directory and execute the following command from the terminal. Including the `--test` option will include the '000.md' test chapter.
 
-`sh ./build-local.sh`
+`sh ./build-local.sh --test`
 
 Using Finder navigate to /Build/Out/ from within the project root directory. Within the out directory you should find two files.
 
-*'Agile Coach.epub'*
+*'DevOps Coach.epub'*
 
 and
 
-*'Agile Coach.mobi'*
+*'DevOps Coach.mobi'*
 
-Right click 'Agile Coach.epub' and select open with (Books). You should now be able to read the ebook!
+Right click 'DevOps Coach.epub' and select open with (Books). You should now be able to read the ebook!
 
 Close the book view in (Books) and delete the book from your collection. This is recommended to avoid confusion relating to which version of the book you are reading as you begin to author content and review your changes before committing to the GitHub repository.
 
@@ -86,7 +86,7 @@ Just below where the file reads `# Getting Started` type your name or a unique m
 
 >`# Getting Started.`
 >
->`Kevin Say's Hello Publishing World!`
+>`Hello Publishing World!`
 >
 > `Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.`
 
@@ -94,9 +94,9 @@ Save and close the file `./Author/Chapters/000.md`.
 
 Starting again from the project root directory, using the terminal run the following command.
 
-`sh ./build-local.sh`
+`sh ./build-local.sh --test`
 
-Using Finder again navigate to /Build/Out/ from within the project root directory. Right click 'Agile Coach.epub' and select open with (Books).
+Using Finder again navigate to /Build/Out/ from within the project root directory. Right click 'DevOps Coach.epub' and select open with (Books).
 
 *Congratulations!*
 
